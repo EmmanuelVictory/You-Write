@@ -34,7 +34,7 @@ This project was built to practice real world web application development using 
 
 - ⚛️ React (App.jsx)  
 - ⚡ Vite  
-- 📜 JavaScript (ES6+)  
+- 📜 JavaScript  
 - 🎨 CSS  
 
 
