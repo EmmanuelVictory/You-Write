@@ -32,7 +32,7 @@ This project was built to practice real world web application development using 
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React (App.jsx)  
+- ⚛️ React 
 - ⚡ Vite  
 - 📜 JavaScript  
 - 🎨 CSS  
