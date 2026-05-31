@@ -778,7 +778,7 @@ function HomePage({ nav, toast, initialTag }) {
           Discover stories that matter
         </h1>
         <p style={{ color: "var(--muted)", fontSize: 15, maxWidth: 400, margin: "0 auto" }}>
-          Read, write, and share ideas with a community of thoughtful minds.
+          Read, write and share ideas with a community of thoughtful minds.
         </p>
       </div>
 
